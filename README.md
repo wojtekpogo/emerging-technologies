@@ -34,10 +34,15 @@ ___
 2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
 3. Run `jupyter lab`.
 
-##Quick Steps
+## Quick Steps
 
 You can view the notebook in static form, just click the following badge:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wojtekpogo-emerging-technologies-wnlkbeob/lab)
+
+You can also view the notebook in dynamic form, just by clicking the following badge:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/wojtekpogo/emerging-technologies/tree/main/)
 
 
 
