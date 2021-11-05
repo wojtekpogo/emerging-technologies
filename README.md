@@ -30,6 +30,15 @@ ___
 ## How to Run
 <a name="howto"/>
 
+1. Download [Anaconda](https://www.anaconda.com/products/individual).
+2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
+3. Run `jupyter lab`.
+
+##Quick Steps
+
+You can view the notebook in static form, just click the following badge:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wojtekpogo-emerging-technologies-wnlkbeob/lab)
+
 
 
 
