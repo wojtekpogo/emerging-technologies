@@ -13,12 +13,12 @@ You can view the notebook in static form, just click the following badge:
 
 You can also view the notebook in dynamic form, just by clicking the following badge:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/wojtekpogo/numpy-random/blob/main/numpy-random.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/wojtekpogo/emerging-technologies/tree/main/)
 
 ## How to run the notebook
 
 1. Download [Anaconda]().
-2. Download [cmder]() if on Windows.
+2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
 3. Run `jupyter lab`.
 
 
