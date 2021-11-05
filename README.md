@@ -19,11 +19,21 @@ ___
 ## Description
 <a name="description"/>
 
+description here
+
 
 
 
 ## Technologies
 <a name="technologies"/>
+
+list and describe technologies used here
+
+* Python
+* Scikit-learn
+* Numpy
+* Matplotlib
+
 
 
 
@@ -52,6 +62,12 @@ You can also view the notebook in dynamic form, just by clicking the following b
 
 ## References
 <a name="references"/>
+
+<sup>1</sup>[Scikit-learn](https://scikit-learn.org/stable/)
+
+<sup>2</sup>[Visualization with Python](https://matplotlib.org/)
+
+<sup>3</sup>[Numpy](https://numpy.org/doc/stable/)
 
 
 
