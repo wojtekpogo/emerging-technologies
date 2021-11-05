@@ -51,7 +51,7 @@ list and describe technologies used here
 
 You can view the notebook in static form, just click the following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wojtekpogo-emerging-technologies-wnlkbeob/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wojtekpogo/emerging-technologies/HEAD)
 
 You can also view the notebook in dynamic form, just by clicking the following badge:
 
