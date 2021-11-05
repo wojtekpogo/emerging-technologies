@@ -32,7 +32,9 @@ ___
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
 2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
-3. Run `jupyter lab`.
+3. Copy `https://github.com/wojtekpogo/emerging-technologies.git`
+4. Navigate to the folder where downloaded.
+5. Run `jupyter lab`.
 
 ## Quick Steps
 
