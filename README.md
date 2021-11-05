@@ -34,9 +34,10 @@ ___
 2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
 3. Copy `https://github.com/wojtekpogo/emerging-technologies.git`
 4. Navigate to the folder where downloaded.
-5. Run `jupyter lab`.
+5. Run `jupyter lab` or use one of the [Quick Steps](#quicksteps).
 
 ## Quick Steps
+<a name="quicksteps"/>
 
 You can view the notebook in static form, just click the following badge:
 
