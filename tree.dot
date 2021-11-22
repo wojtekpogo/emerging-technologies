@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+0 [label="X[36] <= 0.5\nsamples = 1203\nvalue = [119, 121, 117, 122, 120, 123, 120, 120, 119, 122]", fillcolor="#ffffff"] ;
+1 [label="X[28] <= 5.5\nsamples = 175\nvalue = [117, 0, 2, 0, 2, 20, 4, 0, 2, 28]", fillcolor="#efb387"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="X[37] <= 0.5\nsamples = 127\nvalue = [117, 0, 1, 0, 2, 3, 3, 0, 0, 1]", fillcolor="#e78b49"] ;
+1 -> 2 ;
+3 [label="samples = 7\nvalue = [0, 0, 1, 0, 0, 3, 3, 0, 0, 0]", fillcolor="#ffffff"] ;
+2 -> 3 ;
+4 [label="samples = 120\nvalue = [117, 0, 0, 0, 2, 0, 0, 0, 0, 1]", fillcolor="#e6843e"] ;
+2 -> 4 ;
+5 [label="X[21] <= 9.0\nsamples = 48\nvalue = [0, 0, 1, 0, 0, 17, 1, 0, 2, 27]", fillcolor="#f7bfc9"] ;
+1 -> 5 ;
+6 [label="samples = 20\nvalue = [0, 0, 1, 0, 0, 16, 1, 0, 0, 2]", fillcolor="#65b3eb"] ;
+5 -> 6 ;
+7 [label="samples = 28\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 2, 25]", fillcolor="#e8506b"] ;
+5 -> 7 ;
+8 [label="X[61] <= 0.5\nsamples = 1028\nvalue = [2, 121, 115, 122, 118, 103, 116, 120, 117, 94]", fillcolor="#ffffff"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="X[26] <= 11.5\nsamples = 293\nvalue = [0, 11, 0, 7, 74, 60, 1, 118, 10, 12]", fillcolor="#edd7fa"] ;
+8 -> 9 ;
+10 [label="samples = 141\nvalue = [0, 5, 0, 7, 4, 11, 0, 106, 7, 1]", fillcolor="#bc6eec"] ;
+9 -> 10 ;
+11 [label="samples = 152\nvalue = [0, 6, 0, 0, 70, 49, 1, 12, 3, 11]", fillcolor="#d7faf3"] ;
+9 -> 11 ;
+12 [label="X[43] <= 1.5\nsamples = 735\nvalue = [2, 110, 115, 115, 44, 43, 115, 2, 107, 82]", fillcolor="#ffffff"] ;
+8 -> 12 ;
+13 [label="samples = 252\nvalue = [0, 18, 0, 107, 4, 35, 3, 1, 10, 74]", fillcolor="#dafae1"] ;
+12 -> 13 ;
+14 [label="samples = 483\nvalue = [2, 92, 115, 8, 40, 8, 112, 1, 97, 8]", fillcolor="#fefffd"] ;
+12 -> 14 ;
+}
