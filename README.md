@@ -34,6 +34,30 @@ list and describe technologies used here
 * Numpy
 * Matplotlib
 
+## How to clone this repository
+1. In the Clone with HTTPs section, copy the clone URL for the repository.
+2. Open Git Bash.
+3. Change the current working directory to the location where you want the cloned directory to be made.
+4. Type `git clone`, and then paste the URL you copied in Step 2.
+5. Press Enter. Your local clone will be created.
+
+## Dependencies
+#### Python
+First of all you need Python, if you already have it, please skip this part and continue on.
+If you're running Windows: the most stable Windows downloads are available from the [Python for Windows](https://www.python.org/downloads/windows/) page. Please download the latest release and continue on.
+If you are using a Mac, see the [Python for Mac OS X](https://www.python.org/downloads/mac-osx/) page.
+For other systems, or if you want to install from source, see the [general download page](https://www.python.org/downloads/).
+
+#### Pip
+If you're running Python 2.7.9+ or Python 3.4+ you should already have pip installed. If you do not, please see steps above on how to download Python - you will need it to run this solution.
+
+#### Packages
+You will need the packages listed below to be able to run this program. To install those, open your CMD and run the following command for each of them: `pip3 install [name of dependency]`
+* numpy
+* scipy
+* matplotlib
+* qskit
+
 
 
 
