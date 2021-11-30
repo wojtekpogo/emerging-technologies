@@ -1,1 +1,1 @@
-conda install python-graphviz
+qiskit
