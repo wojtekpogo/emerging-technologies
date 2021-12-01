@@ -65,7 +65,7 @@ You will need the packages listed below to be able to run this program. To insta
 ## How to Run using Dockerfile
 <a name="howto"/>
 
-1. Make sure you have a Docker installed, if not then download it from [here](https://docs.docker.com/desktop/windows/install/)
+1. Make sure you have a Docker installed by running `docker -v`, if not then download it from [here](https://docs.docker.com/engine/install/)
 2. Clone this repo
 3. Build the image using `docker build -t <name_of_the_image> .`
 4. Run the built image `docker run -p 8888:8888 <name_of_the_image>`
