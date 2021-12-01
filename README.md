@@ -69,7 +69,7 @@ You will need the packages listed below to be able to run this program. To insta
 2. Clone this repo
 3. Build the image using `docker build -t <name_of_the_image> .`
 4. Run the built image `docker run -p 8888:8888 <name_of_the_image>`
-5. Copt the link provided and access via browser
+5. Copy the link provided and access via browser
 
 
 
