@@ -38,7 +38,7 @@ list and describe technologies used here
 1. In the Clone with HTTPs section, copy the clone URL for the repository.
 2. Open Git Bash.
 3. Change the current working directory to the location where you want the cloned directory to be made.
-4. Type `git clone`, and then paste the URL you copied in Step 2.
+4. Type `git clone`, and then paste the URL.
 5. Press Enter. Your local clone will be created.
 
 ## Dependencies
@@ -49,7 +49,7 @@ If you are using a Mac, see the [Python for Mac OS X](https://www.python.org/dow
 For other systems, or if you want to install from source, see the [general download page](https://www.python.org/downloads/).
 
 #### Pip
-If you're running Python 2.7.9+ or Python 3.4+ you should already have pip installed. If you do not, please see steps above on how to download Python - you will need it to run this solution.
+If you're running the latest Python you should already have pip installed. If you do not, please see steps above on how to download Python - you will need it to run this solution.
 
 #### Packages
 You will need the packages listed below to be able to run this program. To install those, open your CMD and run the following command for each of them: `pip3 install [name of dependency]`
@@ -57,18 +57,22 @@ You will need the packages listed below to be able to run this program. To insta
 * scipy
 * matplotlib
 * qskit
+* opencv2
 
 
 
 
-## How to Run
+## How to Run using Dockerfile
 <a name="howto"/>
 
-1. Download [Anaconda](https://www.anaconda.com/products/individual).
-2. Download [cmder](https://cmder.net/) if on Windows (Optional, you can use Windows Command Prompt).
-3. Copy `https://github.com/wojtekpogo/emerging-technologies.git`
-4. Navigate to the folder where downloaded.
-5. Run `jupyter lab` or use one of the [Quick Steps](#quicksteps).
+1. Make sure you have a Docker installed by running `docker -v`, if not then download it from [here](https://docs.docker.com/engine/install/)
+2. Clone this repo
+3. Build the image using `docker build -t <name_of_the_image> .`
+4. Run the built image `docker run -p 8888:8888 <name_of_the_image>`
+5. Copy the link provided and access via browser
+
+
+
 
 ## Quick Steps
 <a name="quicksteps"/>
