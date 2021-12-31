@@ -1,1 +1,6 @@
-qiskit
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+qiskit[visualization]
