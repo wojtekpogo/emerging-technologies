@@ -22,7 +22,7 @@ ___
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
-This repository contains the work from Emerging Technologies Module. It contains:
+This repository contains the work from Emerging Technologies Module. It consist of:
 
 * *scikit-learn* - Contains clear and consise overview of [scikit-learn](https://scikit-learn.org/) library as well as three different algorithms.
 Algorithms used in the notebook **Support Vector Machine** (supervised learning), **Logistic Regression** (supervised learning), **Random Forest** (supervised learning)
