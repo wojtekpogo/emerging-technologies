@@ -78,6 +78,8 @@ You will need the packages listed below to be able to run this program. To insta
 * numpy
 * scipy
 * matplotlib
+* seaborn
+* pandas
 * qskit
 
 
