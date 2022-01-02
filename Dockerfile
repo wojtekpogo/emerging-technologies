@@ -9,9 +9,8 @@ RUN apt update && apt -y upgrade && apt install git
 # copy local file to container
 COPY requirements.txt requirements.txt
 # create directory inside the container
-RUN mkdir notebooks && mkdir -p notebooks/images
+RUN mkdir notebooks
 # copy local file to container
-COPY images/* notebooks/images
 COPY *.ipynb notebooks
 # run pip command to install pip requirements
 RUN pip install -r requirements.txt
