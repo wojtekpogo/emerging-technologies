@@ -101,14 +101,12 @@ Depending on your Python version you may use `pip3` instead of `pip`
 ## Quick Steps
 <a name="quicksteps"/>
 
-You can view the notebook in static form, just click the following badge:
+You can also view the notebook in dynamic form, just by clicking one of the following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wojtekpogo/emerging-technologies/HEAD)
 
-You can also view the notebook in dynamic form, just by clicking the following badge:
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/wojtekpogo/emerging-technologies/tree/main/)
-
+| **Quantum-Deutsch** | **Scikit-learn**|
+| ------------- |:-------------:|
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/wojtekpogo/emerging-technologies/blob/main/quantum-deutsch.ipynb)     | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/wojtekpogo/emerging-technologies/blob/main/scikit-learn.ipynb) |
 
 
 
@@ -122,6 +120,8 @@ You can also view the notebook in dynamic form, just by clicking the following b
 <sup>3</sup>[Numpy](https://numpy.org/doc/stable/)
 
 <sup>4</sup>[Badges](https://github.com/Naereen/badges)
+
+---
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/wojtekpogo/)
 
