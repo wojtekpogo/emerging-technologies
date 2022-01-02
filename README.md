@@ -31,6 +31,12 @@ Algorithms used in the notebook **Support Vector Machine** (supervised learning)
 
 * *Dockerfile* - Blueprint file for docker to allow user to quickly spawn an instance of jupyter with the notebooks found in this repository without the worry of dependencies. To find out how to run a Dockerfile click [here](#howto)
 
+* *requirements.txt* - Stores information about all the dependencies, used for creating a docker image
+
+* *datasets* - Folder with datasets in `.csv` format used for scikit-learn algorithms
+
+* *Labs* - Folder contains the notebooks with all the work throughout the semester
+
 
 ## Technologies
 <a name="technologies"/>
