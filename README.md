@@ -93,7 +93,7 @@ Depending on your Python version you may use `pip3` instead of `pip`
 ## How to Run using Dockerfile
 <a name="howto"/>
 
-[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://docs.docker.com/get-started/)
 
 1. Make sure you have a Docker installed by running `docker -v`, if not then download it from [here](https://docs.docker.com/engine/install/)
 2. Clone this repo
