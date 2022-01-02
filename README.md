@@ -51,6 +51,8 @@ Algorithms used in the notebook **Support Vector Machine** (supervised learning)
 
 * **Matplotlib** [<img align="left" alt="numpy | Numpy" width="40px" height ="40px" src="https://user-images.githubusercontent.com/55446533/147863552-fe32bebc-2b28-4432-9c3b-2aeb657446b2.png" />][matplot] -  library for creating static, animated, and interactive visualizations in Python
 
+* **Seaborn** [<img align="left" alt="seaborn | Seaborn" width="40px" height ="40px" src="https://user-images.githubusercontent.com/55446533/147890075-31ed7703-0651-44d0-9e1d-936a4dac63a1.png" />][sns] - data visualization library
+
 * **Qiskit** [<img align="left" alt="qiskit | Qiskit" width="40px" height ="40px" src="https://user-images.githubusercontent.com/55446533/147863581-d1183747-85a8-4af3-9909-4d714c40b17c.jpg" />][qiskit] - an open-source software development kit for working with quantum computers at the level of circuits, pulses, and algorithms. It provides tools for creating and manipulating quantum programs and running them on prototype quantum devices on [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
 
 * **Jupyter** [<img align="left" alt="jup | Jupyter" width="40px" height ="40px" src="https://user-images.githubusercontent.com/55446533/147863706-1004040c-cd19-4a6a-9e51-4fe086357d97.png" />][jup] - an open source web application that you can use to create and share documents that contain live code, equations, visualizations
@@ -142,6 +144,7 @@ You can also view the notebook in dynamic form, just by clicking one of the foll
 [matplot]: https://matplotlib.org/
 [qiskit]: https://qiskit.org/documentation/getting_started.html
 [jup]: https://jupyter.org/
+[sns]: https://seaborn.pydata.org/
 
 
 
